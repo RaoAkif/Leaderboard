@@ -1,18 +1,13 @@
-# Project Name
+# Leaderboard
 
-> This repository contains the templates of various level of projects form simple html-css-js to modularized.
-
-- Branch 1: [Customizable Readme](https://github.com/RaoAkif/ProjectTemplate/tree/01_Customizable_Readme)
-- Branch 2: [RaoAkif Readme](https://github.com/RaoAkif/ProjectTemplate/tree/02_RaoAkif_Readme)
-- Branch 3: [HTML, CSS, JS Linter Config](https://github.com/RaoAkif/ProjectTemplate/tree/03_HTML-CSS-JS__LinterConfig)
-- Branch 4: [Webpack Modularization](https://github.com/RaoAkif/ProjectTemplate/tree/04_Webpack_Modularization)
+> The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
 
 
 ## Get Started
 - Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
 
 
-[Live Site](http://raoakif.github.io/...)
+[Live Site](http://raoakif.github.io/Leaderboard)
 [Live Demo Link](https://www.loom.com/share/...)
 
 ## Get Started
