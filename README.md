@@ -1,46 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Project Name
 
-# Todo List
+> This repository contains the templates of various level of projects form simple html-css-js to modularized.
 
-> CRUD Operation for To Dos
-
-
-## Built With
-
-- HTML, CSS, JS, Node, Webpack
+- Branch 1: [Customizable Readme](https://github.com/RaoAkif/ProjectTemplate/tree/01_Customizable_Readme)
+- Branch 2: [RaoAkif Readme](https://github.com/RaoAkif/ProjectTemplate/tree/02_RaoAkif_Readme)
+- Branch 3: [HTML, CSS, JS Linter Config](https://github.com/RaoAkif/ProjectTemplate/tree/03_HTML-CSS-JS__LinterConfig)
+- Branch 4: [Webpack Modularization](https://github.com/RaoAkif/ProjectTemplate/tree/04_Webpack_Modularization)
 
 
-## Getting Started
+## Get Started
+- Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
 
-**In this repository We created Awesome Books SPA in ES6 notation.**
 
-## Run it
+[Live Site](http://raoakif.github.io/...)
+[Live Demo Link](https://www.loom.com/share/...)
 
-Use the following steps to run this Project locally:
+## Get Started
+To get a local copy up and running follow these simple example steps.Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
 
-- Create a directory
+### Prerequisites
 
-- Open the terminal
+### Setup
 
-- Run this command:
-`git clone https://github.com/RaoAkif/TodoList.git`
+### Install
 
-- Enter in to the folder:
-`cd TodoList`
+### Usage
 
-- Open the folder with a code editor (VS Code preferred)
+### Run tests
 
-- Go to the index.html file and open it with live server
+### Deployment
 
 
 
 ## Authors
 
-👤 **Author**
+👤 **Author1**
 
-- GitHub: [@raoakif](https://github.com/RaoAkif)
-- Twitter: [@raoakif](https://twitter.com/RaoAkif)
-- LinkedIn: [RaoAkif](https://linkedin.com/in/RaoAkif)
+- GitHub: [@githubhandle](https://github.com/RaoAkif)
+- Twitter: [@twitterhandle](https://twitter.com/RaoAkif)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/RaoAkif)
+
+👤 **Author2**
+
+- GitHub: [@githubhandle](https://github.com/githubhandle)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🤝 Contributing
@@ -58,7 +62,6 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
 
 ## 📝 License
 

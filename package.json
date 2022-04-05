@@ -1,9 +1,9 @@
 {
-  "name": "todoliststructure",
+  "name": "project_title",
   "version": "1.0.0",
   "description": "",
   "private": true,
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "start": "webpack serve --open",
     "build": "webpack --config webpack.config.js"
@@ -19,6 +19,8 @@
     "eslint-plugin-import": "^2.25.4",
     "hint": "^6.1.10",
     "html-webpack-plugin": "^5.5.0",
+    "scss": "^0.2.4",
+    "scss-loader": "^0.0.1",
     "style-loader": "^3.3.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
