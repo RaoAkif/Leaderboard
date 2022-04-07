@@ -1,8 +1,8 @@
-import createGame from "./createGame";
-import addScore from "./addScore";
-import getScores from "./getScores";
-import game from "./game";
-import endpoint from "./api";
+import createGame from './createGame.js';
+import addScore from './addScore.js';
+import getScores from './getScores.js';
+import game from './game.js';
+import endpoint from './api.js';
 
 const state = { submitted: false };
 

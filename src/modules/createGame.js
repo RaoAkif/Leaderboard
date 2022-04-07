@@ -1,4 +1,4 @@
-import endpoints from './api';
+import endpoints from './api.js';
 
 const createGame = async (gameName) => {
   let gameID = null;

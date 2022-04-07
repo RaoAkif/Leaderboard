@@ -1,7 +1,7 @@
 const game = {
   id: null,
   name: null,
-  scores: []
-}
+  scores: [],
+};
 
 export default game;
