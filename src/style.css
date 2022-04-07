@@ -9,7 +9,14 @@ body {
 #main {
   margin: 5vh 5vw;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
+}
+
+@media (max-width: '789px') {
+  #main {
+    justify-content: center;
+  }
 }
 
 #section-recent-scores {
@@ -42,6 +49,12 @@ li:nth-child(odd) {
 }
 
 #section-add-score {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#add-score-form {
   display: flex;
   flex-direction: column;
   align-items: center;
