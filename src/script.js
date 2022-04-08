@@ -1,5 +1,4 @@
 import './style.css';
+import startApp from './modules/domConnect';
 
-const title = document.querySelector('title');
-
-title.innerText = 'Page Title';
+startApp();
