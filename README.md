@@ -2,12 +2,12 @@
 
 > The leaderboard website displays scores submitted by different players. It also allows you to submit your score. All data is preserved thanks to the external [Leaderboard API service](https://www.notion.so/microverse/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3).
 
-
-### API Used [Letterboard API](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
+## API
+[Letterboard API](https://www.notion.so/Leaderboard-API-service-24c0c3c116974ac49488d4eb0267ade3)
 
 
 ## Get Started
-- [Live Site](http://raoakif.github.io/Leaderboard)
+[Live Site](http://raoakif.github.io/Leaderboard)
 ### Prerequisites
 NodeJS
 ### Setup
@@ -19,22 +19,15 @@ clone the repo with `git clone git@github.com:RaoAkif/Leaderboard.git`
 ### Run tests
 `npm run test`
 ### Deployment
+`https://app.netlify.com/start/deploy?repository=https://github.com/RaoAkif/HarvardArt`
 
 
+## 👤 Author
 
-## Authors
+- GitHub: [@raoakif](https://github.com/RaoAkif)
+- Twitter: [@raoakif](https://twitter.com/RaoAkif)
+- LinkedIn: [RaoAkif](https://linkedin.com/in/RaoAkif)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/RaoAkif)
-- Twitter: [@twitterhandle](https://twitter.com/RaoAkif)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/RaoAkif)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
 ## 🤝 Contributing
