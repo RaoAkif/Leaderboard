@@ -7,24 +7,26 @@
   <title>Document</title>
 <script defer src="main.js"></script></head>
 <body>
-  <h1>Leaderboard</h1>
-  <div id="main">
-    <section id="section-recent-scores">
-      <div id="head-recent-scores">
+  <main>
+    <h1>Leaderboard</h1>
+    <div id="sub-main">
+      <section id="section-recent-scores">
+        <div id="head-recent-scores">
+          <h3>Recent Scores</h3>
+          <button id="update-button">Refresh</button>
+        </div>
+        <ul id="scores"></ul>
+      </section>
+      <section id="section-add-score">
         <h3>Recent Scores</h3>
-        <button id="update-button">Refresh</button>
-      </div>
-      <ul id="scores"></ul>
-    </section>
-    <section id="section-add-score">
-      <h3>Recent Scores</h3>
-      <form id="add-score-form">
-        <input id="name" type="text">
-        <input id="score" type="number">
-        <button id="add-score-btn">Submit</button>
-      </form>
-    </section>
-  </div>
+        <form id="add-score-form">
+          <input id="name" type="text">
+          <input id="score" type="number">
+          <button id="add-score-btn">Submit</button>
+        </form>
+      </section>
+    </div>
+  </main>
     
   <script src="./script.js"></script>
 </body>
